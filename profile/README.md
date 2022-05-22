@@ -1,5 +1,6 @@
+![](https://i.imgur.com/AneM0GH.jpg)
 <p align="center">
-  <a  target="blank"><img src="https://i.imgur.com/RmzChz8.png" width="320" alt="FinBalanced Logo" /></a>
+  <a  target="blank"><img src="https://avatars.githubusercontent.com/u/98682640?s=1028" width="320" alt="FinBalanced Logo" /></a>
 </p>
 
   <p align="center">Financial wellbeing is a win-win situation for companies and their employees.</p>
